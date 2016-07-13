@@ -6,12 +6,12 @@
   "primary_category": "ed8069bc16574037b6c5256b755097d9", 
   "created_at": "2016-07-13T13:24:08+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2016-07-13T15:15:09.553396+00:00", 
+  "modified_at": "2016-07-13T15:19:15.619357+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -29,7 +29,7 @@
   "source": null, 
   "featured": false, 
   "author_tags": [], 
-  "image": "28bc740a05f448f1b6664dda70d1e466", 
+  "image": "c54050f377434484a5992a892e487d87", 
   "published": null, 
   "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
