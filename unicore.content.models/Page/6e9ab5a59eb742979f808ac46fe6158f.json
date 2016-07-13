@@ -6,12 +6,12 @@
   "primary_category": "ed8069bc16574037b6c5256b755097d9", 
   "created_at": "2016-07-13T13:21:06+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2016-07-13T15:01:56.711834+00:00", 
+  "modified_at": "2016-07-13T15:04:18.842506+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -26,7 +26,7 @@
   "id": null, 
   "content": "Zika is now a public health emergency in many parts of Latin America & the Caribbean. More than 30 countries and territories have reported Zika cases. 26 of them in the Americas, with Brazil reporting the most cases. \r\n\r\nFind the latest information on geographic distribution of confirmed cases of Zika virus in countries and territories of the Americas by visiting the Pan American Health Organization official map : http://ais.paho.org/phip/viz/ed_zika_countrymap.asp ", 
   "source": null, 
-  "featured": true, 
+  "featured": false, 
   "author_tags": [], 
   "image": "be28096e6cc341bfb19a578f3b928938", 
   "published": null, 
