@@ -6,12 +6,12 @@
   "primary_category": "ed8069bc16574037b6c5256b755097d9", 
   "created_at": "2016-07-13T13:25:45+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-07-13T15:01:56.497488+00:00", 
+  "modified_at": "2016-07-13T15:05:42.289594+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -27,7 +27,7 @@
   "id": null, 
   "content": "Simple measures can lower the risk of getting bitten by a mosquito carrying the Zika virus. These include using insect repellent and covering as much of the body as possible with long, light-coloured clothing.\r\n\r\nNo mosquitoes, no Zika! \r\n\r\nEliminating places where mosquitoes can breed and putting screens on windows and doors can also help keep your surroundings safe. Eliminate mosquito breeding sites: \r\n\r\n-\tKeep clean water in covered storage tanks\r\n-\tClean out garbage and waste\r\n-\tReport leaky pipes to authorities\r\n-\tGet rid of stagnant or standing water\r\n\r\nYou can protect yourself and your family by keeping mosquitoes away. As the mosquito bites during the day, infants, pregnant women and those ill with Zika should nap under mosquito nets.", 
   "source": null, 
-  "featured": false, 
+  "featured": true, 
   "author_tags": [], 
   "image": "248c47f310e847079f96dfffb8571850", 
   "published": null, 
