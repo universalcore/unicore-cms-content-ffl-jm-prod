@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "If you are pregnant or planning to become pregnant, take extra care", 
+  "language": "eng_GB", 
+  "title": "Should pregnant women be concerned about Zika?", 
+  "primary_category": "ed8069bc16574037b6c5256b755097d9", 
+  "created_at": "2016-07-13T13:33:17.748461+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-07-13T13:33:17.748772+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Since the initial reports of a link between Zika and microcephaly, researchers across the world began working to study the link between Zika during pregnancy and microcephaly. \r\n\r\nScientists from the United States Centre for Disease Control (CDC) now say that there is enough evidence to conclude that Zika virus infection during pregnancy is a cause of microcephaly and other severe fetal brain defects and has been linked to problems in infants, including eye defects, hearing loss, and impaired growth. \r\n\r\nScientists are studying the full range of other potential health problems that Zika virus infection during pregnancy may cause.\r\n\u00a0\r\nBased on the available evidence, the CDC thinks that Zika virus infection in a woman who is not pregnant would not pose a risk for birth defects in future pregnancies after the virus has cleared from her blood. \r\n\r\nBased on what is known about similar infections, they also think that once a person has been infected with Zika virus, he or she is likely to be protected from a future Zika infection.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "ae00e9920e8f449aa47aff4e7dd68bf2", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "should-pregnant-women-be-concerned-about-zika", 
+  "uuid": "3479e471cd634ee88ca858fd16db7a21"
+}
