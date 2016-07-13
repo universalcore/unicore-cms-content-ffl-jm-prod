@@ -10,11 +10,14 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "6e9ab5a59eb742979f808ac46fe6158f", 
+    "d2cb26dae5ea4b148b9abb62fcabafb3"
+  ], 
   "id": null, 
   "content": "Symptoms of Zika Virus include: \r\n\r\n- Headache\r\n- Slight fever\r\n- Conjunctivitis (red eyes)\r\n- Rash\r\n- Muscle and joint pain\r\n\r\nPeople with Zika virus can experience these symptoms. \r\n\r\nPeople usually don\u2019t get sick enough to go to the hospital and may not realise they have been infected. Actually, only 1 in 4 people can experience some symptoms.\r\n\r\nIf you show symptoms or are diagnosed with Zika, help prevent others in your family from getting sick by avoiding mosquito bites.", 
   "source": null, 
